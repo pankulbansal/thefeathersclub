@@ -2,3 +2,4 @@ The Feather Club: 0.7
 The Feathers Club: 0.8
 Line: 0.75
 Ultra Luxiry: 0.7
+Know  More: 0.75
